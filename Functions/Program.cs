@@ -8,6 +8,38 @@
             program.Run(); // Roep de Run-methode aan om het programma te starten.
         }
 
+        internal class Program
+        {
+            string[] vragen = new string[]
+            {
+                "What 1997 N64 video game, features James Bond and is named after the 1995 film?"
+                "What arcade game was called Puckman in Japan?"
+            };
+
+            internal string GetVraag(int vraagIndex)
+            {
+                return vragen[vraagIndex];
+                string vraag0 = GetVraag(0);
+            }
+
+        }
+
+        internal void Gta5()
+        {
+            Console.WriteLine("Smoke on the Water is a fictional medical-marijuana shop that can be purchased by Franklin with money gained from completing missions in what heist-y video game franchise?");
+            string antwoord = Gta5();
+
+            Console.WriteLine(Gta5();
+        }
+
+        internal string GetRandomVraag()
+        {
+            |
+                // gebruik Random
+                int random = ...;
+                return ...;
+        }
+
         internal void Run() 
         {
             Console.WriteLine("Dit is nu de start van mijn programma"); // eerste tekst
@@ -64,6 +96,14 @@
             string antwoord = Console.ReadLine();
 
             Console.WriteLine(antwoord);
+        }
+
+        internal string Vraag7()
+        {
+            Console.WriteLine("How long do you think you`d survive in a zombie apocalypse?");
+            string antwoord7 = Vraag7();
+            Console.WriteLine(antwoord7);
+            return antwoord; // Geeft het antwoord terug
         }
     }
 }
