@@ -1,0 +1,10 @@
+# Visual Studio-specifieke bestanden
+.vs/
+*.vscode/
+*.vsidx
+*.suo
+*.user
+*.log
+*.obj
+*.exe
+*.dll
