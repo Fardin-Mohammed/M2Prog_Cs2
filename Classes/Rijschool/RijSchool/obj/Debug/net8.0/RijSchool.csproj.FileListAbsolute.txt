@@ -1,0 +1,15 @@
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\bin\Debug\net8.0\RijSchool.exe
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\bin\Debug\net8.0\RijSchool.deps.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\bin\Debug\net8.0\RijSchool.runtimeconfig.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\bin\Debug\net8.0\RijSchool.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\bin\Debug\net8.0\RijSchool.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.AssemblyInfoInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.AssemblyInfo.cs
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.sourcelink.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\refint\RijSchool.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\RijSchool.genruntimeconfig.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Classes\RijSchool\RijSchool\obj\Debug\net8.0\ref\RijSchool.dll

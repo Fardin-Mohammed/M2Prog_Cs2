@@ -37,7 +37,7 @@
             |
                 // gebruik Random
                 int random = ...;
-                return ...;
+            return GetVraag(random);
         }
 
         internal void Run() 
