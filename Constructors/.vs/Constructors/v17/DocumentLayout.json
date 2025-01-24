@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|c:\\users\\fardin\\onedrive - mediacollege amsterdam\\bureaublad\\school\\prog\\periode 1.2\\m2prog_cs2\\constructors\\constructors\\quizvraagantwoord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|solutionrelative:constructors\\quizvraagantwoord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|c:\\users\\fardin\\onedrive - mediacollege amsterdam\\bureaublad\\school\\prog\\periode 1.2\\m2prog_cs2\\constructors\\constructors\\quizvraag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|solutionrelative:constructors\\quizvraag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|c:\\users\\fardin\\onedrive - mediacollege amsterdam\\bureaublad\\school\\prog\\periode 1.2\\m2prog_cs2\\constructors\\constructors\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|solutionrelative:constructors\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|c:\\users\\fardin\\onedrive - mediacollege amsterdam\\bureaublad\\school\\prog\\periode 1.2\\m2prog_cs2\\constructors\\constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52442AF-FF78-49C0-AEAE-44A9ACEE8F0C}|Constructors\\Constructors..csproj|solutionrelative:constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizVraag.cs",
+              "DocumentMoniker": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\QuizVraag.cs",
+              "RelativeDocumentMoniker": "Constructors\\QuizVraag.cs",
+              "ToolTip": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\QuizVraag.cs",
+              "RelativeToolTip": "Constructors\\QuizVraag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:56:03.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\Quiz.cs",
+              "RelativeDocumentMoniker": "Constructors\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\Quiz.cs",
+              "RelativeToolTip": "Constructors\\Quiz.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:55:44.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizVraagAntwoord.cs",
+              "DocumentMoniker": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\QuizVraagAntwoord.cs",
+              "RelativeDocumentMoniker": "Constructors\\QuizVraagAntwoord.cs",
+              "ToolTip": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\QuizVraagAntwoord.cs",
+              "RelativeToolTip": "Constructors\\QuizVraagAntwoord.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:55:15.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\Program.cs",
+              "RelativeDocumentMoniker": "Constructors\\Program.cs",
+              "ToolTip": "C:\\Users\\Fardin\\OneDrive - Mediacollege Amsterdam\\Bureaublad\\School\\Prog\\Periode 1.2\\M2Prog_Cs2\\Constructors\\Constructors\\Program.cs",
+              "RelativeToolTip": "Constructors\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:53:25.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
