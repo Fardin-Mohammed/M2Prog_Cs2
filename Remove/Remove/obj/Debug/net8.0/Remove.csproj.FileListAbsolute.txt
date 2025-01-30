@@ -1,0 +1,15 @@
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\bin\Debug\net8.0\Remove.exe
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\bin\Debug\net8.0\Remove.deps.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\bin\Debug\net8.0\Remove.runtimeconfig.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\bin\Debug\net8.0\Remove.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\bin\Debug\net8.0\Remove.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.AssemblyInfoInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.AssemblyInfo.cs
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.sourcelink.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\refint\Remove.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\Remove.genruntimeconfig.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove\Remove\obj\Debug\net8.0\ref\Remove.dll

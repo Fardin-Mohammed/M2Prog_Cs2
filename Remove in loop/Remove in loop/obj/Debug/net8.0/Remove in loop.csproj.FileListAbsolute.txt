@@ -1,0 +1,15 @@
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\bin\Debug\net8.0\Remove in loop.exe
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\bin\Debug\net8.0\Remove in loop.deps.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\bin\Debug\net8.0\Remove in loop.runtimeconfig.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\bin\Debug\net8.0\Remove in loop.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\bin\Debug\net8.0\Remove in loop.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.AssemblyInfoInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.AssemblyInfo.cs
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.sourcelink.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\refint\Remove in loop.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\Remove in loop.genruntimeconfig.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Remove in loop\Remove in loop\obj\Debug\net8.0\ref\Remove in loop.dll
