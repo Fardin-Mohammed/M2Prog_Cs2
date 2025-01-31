@@ -1,0 +1,16 @@
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\bin\Debug\net8.0\FileIo.exe
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\bin\Debug\net8.0\FileIo.deps.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\bin\Debug\net8.0\FileIo.runtimeconfig.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\bin\Debug\net8.0\FileIo.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\bin\Debug\net8.0\FileIo.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.AssemblyInfoInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.AssemblyInfo.cs
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.sourcelink.json
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\refint\FileIo.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.pdb
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\FileIo.genruntimeconfig.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\obj\Debug\net8.0\ref\FileIo.dll
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\FileIo\FileIo\bin\Debug\net8.0\quiz.txt

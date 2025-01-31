@@ -1,0 +1,5 @@
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\ProductenLaden\ProductenLaden\obj\Debug\net8.0\ProductenLaden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\ProductenLaden\ProductenLaden\obj\Debug\net8.0\ProductenLaden.AssemblyInfoInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\ProductenLaden\ProductenLaden\obj\Debug\net8.0\ProductenLaden.AssemblyInfo.cs
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\ProductenLaden\ProductenLaden\obj\Debug\net8.0\ProductenLaden.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\ProductenLaden\ProductenLaden\obj\Debug\net8.0\ProductenLaden.sourcelink.json

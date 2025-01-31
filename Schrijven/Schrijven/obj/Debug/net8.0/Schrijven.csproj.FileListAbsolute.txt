@@ -1,0 +1,5 @@
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Schrijven\Schrijven\obj\Debug\net8.0\Schrijven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Schrijven\Schrijven\obj\Debug\net8.0\Schrijven.AssemblyInfoInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Schrijven\Schrijven\obj\Debug\net8.0\Schrijven.AssemblyInfo.cs
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Schrijven\Schrijven\obj\Debug\net8.0\Schrijven.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\OneDrive - Mediacollege Amsterdam\Bureaublad\School\Prog\Periode 1.2\M2Prog_Cs2\Schrijven\Schrijven\obj\Debug\net8.0\Schrijven.sourcelink.json
